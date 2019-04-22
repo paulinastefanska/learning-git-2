@@ -1,6 +1,7 @@
 .body {
   max-width: 800px;
   text-align: center;
+  display: -ms-flexbox;
   display: flex; }
 
 .heading {
@@ -19,4 +20,4 @@
 .third3 {
   color: blue; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
